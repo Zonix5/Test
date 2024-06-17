@@ -1,0 +1,6 @@
+main: Main
+name: NgrokStarter
+version: 1.0
+api-version: 1.20
+commands:
+  sendip:
